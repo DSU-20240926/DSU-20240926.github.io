@@ -7,7 +7,7 @@
 # Domains
 
 <p align="center">
-  <img src="https://github.com/DSU-20240926/DSU-20240926.github.io/blob/master/domains.png"/>
+  <img src="https://github.com/DSU-20240926/DSU-20240926.github.io/blob/main/domains.png"/>
 </p>
 
 * <a href=https://aodd.moe>aodd.moe</a> (210630)
