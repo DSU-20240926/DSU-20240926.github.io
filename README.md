@@ -1,6 +1,7 @@
 # DSU-20240926.github.io
 
 [**homework2-1**](https://dsu-20240926.github.io/homework2-1.html)
+
 [**homework2-2**](https://dsu-20240926.github.io/homework2-2.html)
 
 ## 20240926 전강현
