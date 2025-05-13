@@ -8,7 +8,7 @@
 
 [**homework4**](https://webprogramming20251.dongseo.vip/homework4.php) <-- hosting by XAMPP's web server
 
-[**homework4 의 영상**](https://youtu.be/A)
+[**homework4 의 영상**](https://youtu.be/U_dsEWIcpas)
 
 
 ## 20240926 전강현
