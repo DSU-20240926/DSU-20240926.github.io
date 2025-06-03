@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework5</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        .large-button {
+            width: 100px;
+            height: 50px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            border-color: #45a049;
+            border-style: solid;
+        }
+        .large-button:hover {
+            background-color: #45a049;
+            transform: scale(1.2);
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="resTime" style="text-align: center; color: #4A90E2;">? (?)</h1>
+
+    <div id="container" style="text-align: center;"></div>
+    <div style="text-align: center;">
+        <span id="allHap">총합 : 0원</span>
+        <br><br>
+        <button class="large-button" onclick="addSelectRow()">추가하기</button>
+    </div>
+
+    <script>
+        const items = {
+            "초코 라때": 6100,
+            "딸기 라때": 6200,
+            "바닐라 라때": 6000,
+            "초코 케이크": 11000,
+            "딸기 케이크": 12000
+        }
+
+        function updateAllTotal() {
+            let total = 0;
+            const rows = document.querySelectorAll(".row")
+            rows.forEach(row => {
+                const nameSelect = row.querySelectorAll(".n")[0]
+                const qtySelect = row.querySelectorAll(".v")[0]
+                const itemName = nameSelect.value;
+                const price = items[itemName];
+                const qty = parseInt(qtySelect.value);
+                const t = price * qty;
+                row.querySelectorAll(".r")[0].textContent = `합계 : ${t.toLocaleString()}원 |`;
+                total += t;
+            });
+
+            document.getElementById('allHap').textContent = `총합 : ${total.toLocaleString()}원`;
+        }
+
+        function addSelectRow() {
+            const container = document.getElementById('container');
+            const row = document.createElement('div');
+            row.className = 'row'; row.style.marginBottom = "10px"
+
+            // 이름 select
+            const itemSpan =  document.createElement("span")
+            itemSpan.innerText = "품목 : "
+            const nameSelect = document.createElement('select');
+            nameSelect.className = "n"; nameSelect.style.marginRight = "20px"
+            for (const name in items) {
+                const option = document.createElement('option');
+                option.value = name;
+                option.textContent = name;
+                nameSelect.appendChild(option);
+            }
+
+            // 수량 select
+            const countSpan =  document.createElement("span")
+            countSpan.innerText = "수량 : "
+            const qtySelect = document.createElement('select');
+            qtySelect.className = "v"; qtySelect.style.marginRight = "20px"
+            for (let i = 0; i <= 10; i++) {
+                const option = document.createElement('option');
+                option.value = i;
+                option.textContent = i;
+                qtySelect.appendChild(option);
+            }
+
+            // 결과 표시 span
+            const resultSpan = document.createElement('span');
+            resultSpan.className = "r"; resultSpan.textContent = '합계 : 0원 |';
+
+            // 삭제 아이콘
+            const deleteIcon = document.createElement('i');
+            deleteIcon.title = "삭제"; deleteIcon.className = "fa-solid fa-delete-left"; deleteIcon.style.marginLeft = "5px";
+            deleteIcon.style.cursor = "pointer";
+            deleteIcon.onclick = function () {row.remove(); updateAllTotal()}
+
+            // 이벤트 리스너
+            nameSelect.addEventListener('change', updateAllTotal);
+            qtySelect.addEventListener('change', updateAllTotal);
+
+            // 요소 조립
+            row.appendChild(itemSpan)
+            row.appendChild(nameSelect);
+            row.append(countSpan)
+            row.appendChild(qtySelect);
+            row.appendChild(resultSpan);
+            row.appendChild(deleteIcon);
+            container.appendChild(row);
+            updateAllTotal()
+        }
+
+        window.onload = addSelectRow; //페이지 로드 시 하나 추가
+    </script>
+
+    <script>
+        setInterval(() => {
+            const bst = Date.now();
+            document.getElementById("resTime").innerText = `${new Date(bst).toLocaleString()} (${Math.round(bst / 1000)})`
+        }, 1000);
+    </script>
+</body>
+</html>
