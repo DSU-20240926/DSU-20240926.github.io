@@ -12,7 +12,7 @@
 
 [**homework5**](https://webprogramming20251.dongseo.vip/homework5.php) <-- hosting by XAMPP's web server
 
-[**homework5 의 영상**](https://youtu.be/)
+[**homework5 의 영상**](https://youtu.be/zOBHR_7EuQQ)
 
 
 ## 20240926 전강현
