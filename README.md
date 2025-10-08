@@ -29,7 +29,7 @@
 - <s style="color:red;"><a target="_blank" href=https://aodd.pw>aodd.pw</a> (??????)</s>
 - <a target="_blank" href=https://aodd.moe>aodd.moe</a> (210630)
 - <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210723)
-- <s style="color:red;"><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</s>
+- <s style="color:red;"><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</s> Expired
 - <a target="_blank" href=https://redstar.moe>redstar.moe</a> (211012)
 - <a target="_blank" href=https://nerinyan.pw>nerinyan.pw</a> (220419)
 - <a target="_blank" href=https://xi-overthe.top>xi-overthe.top</a> (230930)
@@ -45,5 +45,6 @@
 - <a target="_blank" href=https://youtube11.info>youtube11.info</a> (250414) ~ (260414)
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008)
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008)
+
 
 
