@@ -26,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/DSU-20240926/DSU-20240926.github.io/main/domains.png"/>
 </p>
 
+- <s style="color:red;"><a target="_blank" href=https://aodd.pw>aodd.pw</a> (??????)</s>
 - <a target="_blank" href=https://aodd.moe>aodd.moe</a> (210630)
 - <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210723)
 - <s style="color:red;"><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</s>
@@ -44,4 +45,5 @@
 - <a target="_blank" href=https://youtube11.info>youtube11.info</a> (250414) ~ (260414)
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008)
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008)
+
 
