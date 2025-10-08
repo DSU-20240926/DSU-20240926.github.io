@@ -37,7 +37,7 @@
 - <a target="_blank" href=https://all-adm.in>all-adm.in</a> (240113) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://i-need-to.click>i-need-to.click</a> (240624) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://mokdong.sbs>mokdong.sbs</a> (241102) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
-- <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123 --> 251007) <s style="color:red;"><a target="_blank" href=https://register.music>register.music</a></s> --Transfer--> <a target="_blank" href=https://dynadot.com>dynadot.com</a> 
+- <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123) <s style="color:red;"><a target="_blank" href=https://register.music>register.music</a></s> --Transfer (251007)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a> 
 - <a target="_blank" href=https://pydns.kr>pydns.kr</a> (250823) <a target="_blank" href=https://hosting.kr>hosting.kr</a>
 - <a target="_blank" href=https://hatoru.kr>hatoru.kr</a> (250123) <a target="_blank" href=https://hosting.kr>hosting.kr</a>
 - <a target="_blank" href=https://dongseo.vip>dongseo.vip</a> (250311) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
