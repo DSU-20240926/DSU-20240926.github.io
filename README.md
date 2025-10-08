@@ -28,7 +28,7 @@
 
 - <s style="color:red;"><a target="_blank" href=https://aodd.pw>aodd.pw</a> (??????)</s> <a target="_blank" href=https://godaddy.com>godaddy.com</a> Canceld
 - <a target="_blank" href=https://aodd.moe>aodd.moe</a> (210630) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
-- <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210723) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
+- <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210713) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <s style="color:red;"><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</s> <a target="_blank" href=https://namecheap.com>namecheap.com</a> Expired
 - <a target="_blank" href=https://redstar.moe>redstar.moe</a> (211012) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://nerinyan.pw>nerinyan.pw</a> (220419) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
@@ -48,4 +48,5 @@
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+
 
