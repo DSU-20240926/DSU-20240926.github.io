@@ -43,5 +43,8 @@
 - <a target="_blank" href=https://dongseo.vip>dongseo.vip</a> (250311) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://youtube11.com>youtube11.com</a> (250414) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://youtube11.info>youtube11.info</a> (250414) ~ (260414) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+- <a target="_blank" href=https://youtube11.video>youtube11.video</a> (250414) ~ (260414) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+- <a target="_blank" href=https://youtube11.art>youtube11.art</a> (250414) ~ (260414) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+- <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
