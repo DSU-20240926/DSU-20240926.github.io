@@ -23,7 +23,7 @@
 # Domains
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DSU-20240926/DSU-20240926.github.io/main/domains.png"/>
+  <img src="https://raw.githubusercontent.com/DSU-20240926/DSU-20240926.github.io/refs/heads/main/domains.png"/>
 </p>
 
 - <s style="color:red;"><a target="_blank" href=https://aodd.pw>aodd.pw</a> (??????)</s> <a target="_blank" href=https://godaddy.com>godaddy.com</a> Canceld
@@ -48,3 +48,4 @@
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+
