@@ -28,7 +28,7 @@
 
 - <a target="_blank" href=https://aodd.moe>aodd.moe</a> (210630)
 - <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210723)
-- <s><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</s>
+- <del style="color: red;"><a target="_blank" href=https://hanrang.xyz>hanrang.xyz</a> (210829) ~ (250829)</del>
 - <a target="_blank" href=https://redstar.moe>redstar.moe</a> (211012)
 - <a target="_blank" href=https://nerinyan.pw>nerinyan.pw</a> (220419)
 - <a target="_blank" href=https://xi-overthe.top>xi-overthe.top</a> (230930)
@@ -36,7 +36,7 @@
 - <a target="_blank" href=https://all-adm.in>all-adm.in</a> (240113)
 - <a target="_blank" href=https://i-need-to.click>i-need-to.click</a> (240624)
 - <a target="_blank" href=https://mokdong.sbs>mokdong.sbs</a> (241102)
-- <s><a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123)</s> <a target="_blank" href=https://register.music>register.music</a> ----Transfer----> <a target="_blank" href=https://dynadot.com>dynadot.com</a> <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123)
+- <del style="color: red;"><a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123) <a target="_blank" href=https://register.music>register.music</a></del> ----Transfer----> <a target="_blank" href=https://dynadot.com>dynadot.com</a> <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123)
 - <a target="_blank" href=https://pydns.kr>pydns.kr</a> (250823)
 - <a target="_blank" href=https://hatoru.kr>hatoru.kr</a> (250123)
 - <a target="_blank" href=https://dongseo.vip>dongseo.vip</a> (250311)
@@ -44,4 +44,3 @@
 - <a target="_blank" href=https://youtube11.info>youtube11.info</a> (250414) ~ (260414)
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008)
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008)
-
