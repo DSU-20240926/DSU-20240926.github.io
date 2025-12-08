@@ -17,7 +17,7 @@
 
 ## 20240926 전강현
 
-- <a href="tel:01028380928">010-2838-0928</a>
+- <a target="_blank" href="tel:01028380928">010-2838-0928</a>
 - <a target="_blank" href="mailto:20240926@dongseo.vip">20240926@dongseo.vip</a>
 
 # Domains
@@ -50,4 +50,5 @@
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://nanokvm.ch>nanokvm.ch</a> (251209) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+
 - <a target="_blank" href=https://youtu11.be>youtu11.be</a> (251209) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
