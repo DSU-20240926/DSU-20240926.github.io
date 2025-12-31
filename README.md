@@ -35,7 +35,7 @@
 - <a target="_blank" href=https://nerinyan.pw>nerinyan.pw</a> (220419) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://xi-overthe.top>xi-overthe.top</a> (230930) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://wolpi.kr>wolpi.kr</a> (231103) <a target="_blank" href=https://hosting.kr>hosting.kr</a>
-- <a target="_blank" href=https://all-adm.in>all-adm.in</a> (240113) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
+- <a target="_blank" href=https://all-adm.in>all-adm.in</a> (240113) <s style="color:red;"><a target="_blank" href=https://namecheap.com>namecheap.com</a></s> --Transfer (251228)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://i-need-to.click>i-need-to.click</a> (240624) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://mokdong.sbs>mokdong.sbs</a> (241102) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123) <s style="color:red;"><a target="_blank" href=https://register.music>register.music</a></s> --Transfer (251007)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a> 
