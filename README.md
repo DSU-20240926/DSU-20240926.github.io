@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/DSU-20240926/DSU-20240926.github.io/refs/heads/main/domains.png"/>
 </p>
 
-- TLD 17개
+- TLD 16개
 - <s style="color:red;"><a target="_blank" href=https://aodd.pw>aodd.pw</a> (??????)</s> <a target="_blank" href=https://godaddy.com>godaddy.com</a> Canceld
 - <a target="_blank" href=https://aodd.moe>aodd.moe</a> (210630) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://aodd.xyz>aodd.xyz</a> (210713) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
@@ -38,7 +38,7 @@
 - <a target="_blank" href=https://all-adm.in>all-adm.in</a> (240113) <s style="color:red;"><a target="_blank" href=https://namecheap.com>namecheap.com</a></s> --Transfer (251228)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://i-need-to.click>i-need-to.click</a> (240624) <a target="_blank" href=https://namecheap.com>namecheap.com</a>
 - <a target="_blank" href=https://mokdong.sbs>mokdong.sbs</a> (241102) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
-- <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123) <s style="color:red;"><a target="_blank" href=https://register.music>register.music</a></s> --Transfer (251007)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a> 
+- <a target="_blank" href=https://kizuna.music>kizuna.music</a> (241123) <s style="color:red;"><a target="_blank" href=https://register.music>register.music</a></s> --Transfer (251007)--> <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://pydns.kr>pydns.kr</a> (250823) <a target="_blank" href=https://hosting.kr>hosting.kr</a>
 - <a target="_blank" href=https://hatoru.kr>hatoru.kr</a> (250123) <a target="_blank" href=https://hosting.kr>hosting.kr</a>
 - <a target="_blank" href=https://dongseo.vip>dongseo.vip</a> (250311) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
@@ -49,6 +49,5 @@
 - <a target="_blank" href=https://jakadsmania.com>jakadsmania.com</a> (251008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.info>jakadsmania.info</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
-- <a target="_blank" href=https://nanokvm.ch>nanokvm.ch</a> (251209) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
-
+- <s style="color:red;"><a target="_blank" href=https://nanokvm.ch>nanokvm.ch</a> (251209) ~ (260220) <a target="_blank" href=https://dynadot.com>dynadot.com</a></s> domainabuse@nic.ch 할당취소
 - <a target="_blank" href=https://youtu11.be>youtu11.be</a> (251209) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
