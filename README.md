@@ -51,3 +51,4 @@
 - <a target="_blank" href=https://jakadsmania.online>jakadsmania.online</a> (251008) ~ (261008) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
 - <s style="color:red;"><a target="_blank" href=https://nanokvm.ch>nanokvm.ch</a> (251209) ~ (260220) <a target="_blank" href=https://dynadot.com>dynadot.com</a></s> domainabuse@nic.ch 할당취소
 - <a target="_blank" href=https://youtu11.be>youtu11.be</a> (251209) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
+- <a target="_blank" href=https://tunnels.cfd>tunnels.cfd</a> (260418) <a target="_blank" href=https://dynadot.com>dynadot.com</a>
